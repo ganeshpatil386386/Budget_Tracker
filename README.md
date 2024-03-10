@@ -1,9 +1,11 @@
 # React + Vite
 
-This project built using React + Context Api. This app simplify your daily budget process.
+This project was built using React + Context API. This app simplifies your daily budget process.
 
 Features -:
 
 - Calculate your budgets
 - Previous transaction history
-- Add new transactions and budgest.
+- Add new transactions and budget.
+
+[Live Demo](https://budget-tracker-five-khaki.vercel.app/)
